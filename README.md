@@ -1,2 +1,2 @@
-# Theoretical_Survey_of_Training_of_GAN
+# Theoretical Survey of Training of GAN
 A short theoretical survey of training of GAN
